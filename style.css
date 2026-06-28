@@ -1,1 +1,9 @@
-
+body{margin:0;font-family:Arial,sans-serif;background:#111;color:#fff}
+.container{max-width:500px;margin:40px auto;text-align:center;padding:20px}
+.logo{max-width:170px}
+h1{color:#d4af37;margin:10px 0 0}
+p{color:#ddd}
+.btn{display:block;margin:14px 0;padding:15px;border-radius:12px;background:#d4af37;color:#111;text-decoration:none;font-weight:bold;transition:.25s}
+.btn:hover{transform:scale(1.03);box-shadow:0 0 18px rgba(212,175,55,.6)}
+footer{margin-top:30px;color:#aaa;font-size:.9rem}
+i{margin-right:10px}
